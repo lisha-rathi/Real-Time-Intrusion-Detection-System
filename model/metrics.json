@@ -1,0 +1,26 @@
+{
+  "random_forest": {
+    "accuracy": 99.97,
+    "precision": 99.98,
+    "recall": 99.97,
+    "f1_score": 99.98,
+    "roc_auc": 100.0,
+    "confusion_matrix": [
+      [
+        19533,
+        5
+      ],
+      [
+        7,
+        25598
+      ]
+    ]
+  },
+  "deep_learning": {
+    "accuracy": 99.9,
+    "precision": 99.97,
+    "recall": 99.86,
+    "f1_score": 99.92,
+    "roc_auc": 99.99
+  }
+}
